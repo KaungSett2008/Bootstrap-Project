@@ -11,10 +11,11 @@ body{
 .banner h2{
     font-family: 'Corinthia', cursive;
     font-size: 50px;
+    margin-top: 40px;
 }
 .background-image{
     background-image: url("bg.jpeg");
-    min-height: 350px;
+    min-height: 450px;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
