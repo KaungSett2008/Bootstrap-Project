@@ -1,0 +1,28 @@
+ li a{
+  font-size: 18px;
+}
+.image{
+    background-image: url('bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 350px;
+}
+.service{
+    padding: 40px;
+    transition: 1s;
+}
+.service .fas{
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+}
+.service h4{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.service:hover{
+    background: rgb(67, 126, 251);
+    color: #ffffff;
+}
