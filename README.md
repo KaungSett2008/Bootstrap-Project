@@ -1,1 +1,1 @@
-# example
+# Bootstrap Project For Kids
