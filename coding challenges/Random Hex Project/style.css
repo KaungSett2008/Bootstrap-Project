@@ -1,0 +1,22 @@
+body{
+    background-color: #ff5c5c;
+}
+h3{
+    display: inline-block;
+    margin-top: 30px;
+    padding: 15px;
+    box-shadow: 0px 3px 8px rgb(207, 206, 206);
+    border-radius: 5px;
+    font-family: monospace;
+}
+.generate{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.copy{
+    font-size: 18px;
+}
+input[type="text"] {
+    font-size: 20px;
+}
